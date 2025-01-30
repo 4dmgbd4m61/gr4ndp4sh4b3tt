@@ -7,9 +7,19 @@
 
 
 
+
+
+
+
+
 <a href="https://cutt.ly/GrandSosyal">
     <img src="https://i.ibb.co/cS3r8SmW/images.jpg" alt="images" border="0">
 </a>
+
+
+
+
+
 
 
 
